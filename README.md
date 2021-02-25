@@ -1,7 +1,7 @@
 # README
 
 ## summary
-`ssd` is a lightweight, idiomatic and composable framework for building Go HTTP services.
+`ssd` is a web framework written in Go (Golang). 
 
 ## install
 `go get -u github.com/forging2012/ssd`

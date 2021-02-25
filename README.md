@@ -1,7 +1,7 @@
 # README
 
 ## summary
-`ssd` is a web framework written in Go (Golang). 
+ssd is a web framework written in Go (Golang), inspired from gin framework.
 
 ## install
 `go get -u github.com/forging2012/ssd`

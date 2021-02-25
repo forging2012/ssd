@@ -1,6 +1,8 @@
 package main
 
-import "ssd"
+import (
+	"github.com/forging2012/ssd"
+)
 
 func main() {
 	r := ssd.New()

@@ -1,4 +1,4 @@
-module example
+module github.com/forging2012/ssd
 
 go 1.13
 

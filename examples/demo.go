@@ -36,7 +36,7 @@ import (
 	"log"
 	"net/http"
 
-	"ssd"
+	"github.com/forging2012/ssd"
 )
 
 func main() {
